@@ -29,14 +29,12 @@ The 3D Racing Game offers an immersive racing experience in a visually stunning 
 
 The game features multiple game modes, including:
 
-- Single Player: Compete against AI opponents in various race modes.
+- Single Player: Compete against AI opponents.
 
 
 ## Screenshots<a name="screenshots"></a>
 
-![8](https://github.com/Fazal-Ashraf-AURORA/3DArcadeRacing/assets/33286031/421fd617-d83d-44db-9650-149a931d866f)
-
-
+![screenshots](https://github.com/Fazal-Ashraf-AURORA/3DArcadeRacing/assets/33286031/9f613a3f-fa46-45ee-9941-ef697959774a)
 
 ## Controls<a name="controls"></a>
 
